@@ -1,17 +1,13 @@
-# Welcome to MkDocs
-
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-                                             
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+<p align="center" style="font-family: 'Georgia', 'Times New Roman', serif; font-size: 1.9em; font-weight: bold;">
+Jak dbać o rośliny doniczkowe?
+<p align="center" style="font-family: 'Georgia', 'Times New Roman', serif; font-size: 1.1em;">
+Witaj na stronie poświęconej pielęgnacji roślin doniczkowych!
+<p align="center" style="font-family: 'Georgia', 'Times New Roman', serif; font-size: 1.1em;">
+Znajdziesz tu teorię, praktyczne porady oraz przykłady dotyczące opieki nad roślinami w domu i biurze.
+</p>
+<p align="center">
+  <img src="img/kwiaciarnia.jpg" alt="Opis" width="300"/>
+</p>
+<p align="center" style="font-family: 'Georgia', 'Times New Roman', serif; font-size: 1.3em;">
+Zapraszamy do zgłębiania tematu!
+</p>
