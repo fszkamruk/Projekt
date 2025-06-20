@@ -1,0 +1,5 @@
+site_name: Projekt
+nav: 
+- Home: index.md
+- Strona2: index copy.md
+theme: readthedocs
