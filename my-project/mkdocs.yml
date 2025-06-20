@@ -1,5 +1,9 @@
 site_name: Projekt
-nav: 
-- Home: index.md
-- Strona2: index copy.md
+nav:
+  - Strona główna: index.md
+  - Teoria: teoria.md
+  - Temat projektu: tematprojektu.md
+  - Przykłady: przyklady.md
+  - Praktyka: praktyka.md
+  - Autorzy: autorzy.md
 theme: readthedocs
