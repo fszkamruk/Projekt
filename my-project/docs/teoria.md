@@ -3,7 +3,7 @@
 ## ☀️ Światło
 
 Światło to podstawowy czynnik warunkujący życie roślin.  
-Większość gatunków doniczkowych pochodzi z tropikalnych lasów, gdzie światło jest filtrowane przez korony drzew.  
+Większość gatunków doniczkowych pochodzi z tropikalnych lasów, gdzie światło jest filtrowane przez korony drzew.
 Dlatego wiele z nich preferuje światło rozproszone.  
 
 🌞 Rośliny światłolubne (np. sukulenty) dobrze czują się na parapetach południowych.  
@@ -37,7 +37,7 @@ Warto sprawdzać wilgotność podłoża, np. palcem, zanim podlejemy.
 
 Rośliny doniczkowe mają ograniczoną ilość składników odżywczych – dlatego trzeba je regularnie zasilać nawozem.
 
-🧪 **Rodzaje nawozów:**
+### 🧪 Rodzaje nawozów:
 - 🌿 uniwersalne
 - 🍀 do roślin zielonych
 - 🌸 do kwitnących
@@ -51,6 +51,7 @@ Rośliny doniczkowe mają ograniczoną ilość składników odżywczych – dlat
 
 Z czasem podłoże w doniczce traci strukturę i staje się jałowe.  
 Przesadzanie pozwala:
+
 - uzupełnić świeżą ziemię,
 - zwiększyć miejsce dla korzeni,
 - zdiagnozować ewentualne choroby korzeni 🦠
@@ -73,4 +74,4 @@ Wybierz doniczkę o 1–2 cm większą niż poprzednia.
 
 ![](img/robak.webp)
 
-🧠 Zawsze reaguj na zmiany wyglądu – rośliny nie krzyczą, ale „mówią” przez liście. 🌿
+**🧠 Zawsze reaguj na zmiany wyglądu – rośliny nie krzyczą, ale „mówią” przez liście. 🌿**

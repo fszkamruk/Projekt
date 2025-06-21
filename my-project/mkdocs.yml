@@ -4,6 +4,24 @@ nav:
   - Temat projektu: tematprojektu.md
   - Teoria: teoria.md
   - Przykłady: przyklady.md
-  - Wydarzenia: praktyka.md
+  - Wydarzenia: wydarzenie.md
   - Autorzy: autorzy.md
-theme: readthedocs
+  
+theme:
+  name: material
+  font:
+    text: Nunito
+  palette: 
+    primary: green
+    accent: teal
+  features:
+    navigation.tabs.sticky
+    navigation.top
+    - search.highlight
+    - search.share
+    - search.suggest
+    - header.autohide
+  logo: img/logo.png
+plugins:
+  - search:
+      suggest: true
