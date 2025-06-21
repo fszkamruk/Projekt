@@ -1,23 +1,24 @@
+
 # 🌿 Wydarzenia i targi roślinne
 
-Rośliny doniczkowe to nie tylko domowa ozdoba – to również pasja i społeczność!  
-W całej Polsce (i Europie) odbywają się wydarzenia, które gromadzą miłośników zieleni.
+Rośliny doniczkowe to nie tylko domowa ozdoba, to również pasja i społeczność!  
+W całej Polsce i Europie odbywają się wydarzenia, które gromadzą miłośników zieleni.
 
 To doskonała okazja, aby poznać nowe gatunki, porozmawiać z hodowcami, kupić ciekawe okazy oraz wziąć udział w warsztatach i wymianach.
 
-<p align="center">
-  <img src="img/targ_roslin.jpg" alt="Targi roślin" width="300">
-</p>
+
+![Targi roślin](img/targ_roslin.jpg)
+
 
 ---
 
 ## 🌱 Festiwal Roślin – Polska
 
-🔸 Cykl ogólnopolskich wydarzeń w miastach takich jak Warszawa, Kraków, Wrocław, Gdańsk czy Poznań  
-🔸 Wstęp darmowy, szeroka oferta roślin kolekcjonerskich, akcesoriów, nawozów i doniczek  
-🔸 Idealna okazja do uzupełnienia swojej domowej dżungli lub zadania pytań specjalistom
+- Cykl ogólnopolskich wydarzeń w miastach takich jak Warszawa, Kraków, Wrocław, Gdańsk czy Poznań  
+- Wstęp darmowy, szeroka oferta roślin kolekcjonerskich, akcesoriów, nawozów i doniczek  
+- Idealna okazja do uzupełnienia swojej domowej dżungli lub zadania pytań specjalistom
 
-🔗 Strona: [festiwalroslin.pl](https://festiwalroslin.pl)
+**🔗 Strona:** [festiwalroslin.pl](https://worldflowershow.pl/)
 
 ---
 
@@ -30,7 +31,7 @@ To doskonała okazja, aby poznać nowe gatunki, porozmawiać z hodowcami, kupić
 
 ---
 
-## 🪻 Zielony Bazar – lokalne spotkania i wymiany
+## 👽 Zielony Bazar – lokalne spotkania i wymiany
 
 🌼 Kameralne wydarzenia organizowane w klubokawiarniach, parkach lub galeriach  
 🔁 Możliwość wymiany sadzonek, doniczek, rozmów i poznania nowych pasjonatów  
@@ -66,5 +67,5 @@ To doskonała okazja, aby poznać nowe gatunki, porozmawiać z hodowcami, kupić
 
 ---
 
-> 💚 Zanurz się w zielonym świecie – odwiedzaj festiwale, poznawaj ludzi i inspiruj się roślinnym stylem życia!
+ 💚 **Zanurz się w zielonym świecie – odwiedzaj festiwale, poznawaj ludzi i inspiruj się roślinnym stylem życia!**
 
