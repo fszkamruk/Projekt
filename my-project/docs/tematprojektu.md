@@ -13,7 +13,6 @@ Nasz projekt powstał z myślą o tych, którzy chcą rozpocząć zieloną przyg
   <img src="img/zakonczenie.jpg" alt="Roślina" width="300"/>
 </p>
 
-🎯 Cele projektu</h2>
 
 
 Chcemy stworzyć przystępny i praktyczny przewodnik, który pomoże:
