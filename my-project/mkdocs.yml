@@ -1,9 +1,9 @@
-site_name: Projekt
+site_name: Jak dbać o rośliny doniczkowe?
 nav:
   - Strona główna: index.md
-  - Teoria: teoria.md
   - Temat projektu: tematprojektu.md
+  - Teoria: teoria.md
   - Przykłady: przyklady.md
-  - Praktyka: praktyka.md
+  - Wydarzenia: praktyka.md
   - Autorzy: autorzy.md
 theme: readthedocs

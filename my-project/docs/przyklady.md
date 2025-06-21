@@ -1,17 +1,40 @@
-# Welcome to MkDocs
+# 🌼 Przykłady roślin doniczkowych
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Poniżej przedstawiamy kilka popularnych roślin doniczkowych wraz z opisem ich wymagań. Do każdego przykładu możesz dołączyć zdjęcie.
 
-## Commands
+---
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-                                             
-## Project layout
+## 🌿 Monstera Deliciosa
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+![Monstera](img/monstera.jpg)
+
+- 🌞 Stanowisko: jasne, z rozproszonym światłem
+- 💧 Podlewanie: gdy wierzchnia warstwa ziemi przeschnie
+- 🌱 Nawożenie: co 2 tygodnie nawozem do roślin zielonych
+- 🪴 Przesadzanie: co 1–2 lata
+
+Cechą charakterystyczną są duże liście z naturalnymi dziurami.
+
+---
+
+## 🌱 Sansewieria (wężownica)
+
+![Sansewieria](img/sanseviera.jpg)
+
+- 🌞 Stanowisko: jasne lub półcień, bardzo wytrzymała
+- 💧 Podlewanie: rzadko – nawet raz na 2–3 tygodnie
+- 🌡️ Toleruje suche powietrze i brak opieki
+
+Idealna do biura i dla zapominalskich.
+
+---
+
+## 🌴 Fikus Benjamina
+
+![Fikus](img/fikus.png)
+
+- 🌞 Stanowisko: jasne, ale bez bezpośredniego słońca
+- 💧 Lubi wilgotne powietrze, podlewaj regularnie
+- ⚠️ Wrażliwy na przestawianie – może zrzucać liście
+
+Wymaga cierpliwości, ale odwdzięcza się gęstym pokrojem.
